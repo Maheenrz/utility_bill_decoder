@@ -1,0 +1,21 @@
+{
+  "bills": 3,
+  "mean_field_accuracy": 1.0,
+  "per_bill": {
+    "KESC_0004": {
+      "score": 1.0,
+      "wrong_fields": [],
+      "warnings": []
+    },
+    "KESC_0008": {
+      "score": 1.0,
+      "wrong_fields": [],
+      "warnings": []
+    },
+    "LESCO_0005": {
+      "score": 1.0,
+      "wrong_fields": [],
+      "warnings": []
+    }
+  }
+}
